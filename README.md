@@ -6,7 +6,7 @@
 <br />
   <div align="center">
     <a href="https://github.com/kzmfhm/3D-login-page">
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
+      <img src="./images/logo.svg" alt="Logo" width="200" height="200">
     </a>
     <h1 align="center">@kzm.co.pk</h1>
     <p align="center">
@@ -48,15 +48,17 @@
 
 ### Photos
 
-![My Project Screen Shot](src/images/signup.png)
+![My Project Screen Shot]('./images/signup.png')
 
-![My Project Screen Shot](src/images/3D-login.png)
+![My Project Screen Shot]('./images/3D-login.png')
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
-  ### Built With
+### Built With
   
-  ![Javascript,Html,CSS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   

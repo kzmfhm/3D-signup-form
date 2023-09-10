@@ -1,41 +1,87 @@
 # 3D-login-page
 
-![Logo](src/images/logo.svg)
+<a name="readme-top"></a>
+
+<!-- PROJECT LOGO -->
+<br />
+  <div align="center">
+    <a href="https://github.com/kzmfhm/3D-login-page">
+      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
+    </a>
+    <h1 align="center">@kzm.co.pk</h1>
+    <p align="center">
+    <br/>
+    A 3D login page is an immersive and visually engaging web interface that incorporates three-dimensional design elements to enhance user interaction and create a unique login experience.<br/>
+      <br/>
+      Built by: @kzm
+      <br/>
+      <br/>
+      <a href="https://github.com/kzmfhm/3D-login-page"><strong>Explore the docs »</strong></a>
+      <br/>
+      <br/>
+     </p>
+  </div>
+   <!-- TABLE OF CONTENTS -->
+    <details>
+    <summary>Table of Contents</summary>
+    <ol>
+      <li>
+        <a href="#about-the-project">About The Project</a>
+        <ul>
+          <li><a href="#photos">Photos</a></li>
+       
+        </ul>
+      </li>
+      <li>
+          <a href="#getting-started">Getting Started</a>
+        <ul>
+       
+          <li><a href="#installation">Installation</a></li>
+        </ul>
+  
+   
+    </ol>
+  </details>
+  <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-A 3D login page is an immersive and visually engaging web interface that incorporates three-dimensional design elements to enhance user interaction and create a unique login experience.
-
 ### Photos
 
-![Screenshot 1](src/images/signup.png)
-![Screenshot 2](src/images/3D-login.png)
+![My Project Screen Shot](src/images/signup.png)
 
-### Built With
+![My Project Screen Shot](src/images/3D-login.png)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
+  <p align="right"><a href="#readme-top">back to top</a></p>
+  
+  ### Built With
+  
+  ![Javascript,Html,CSS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)
 
-### Description
+  <p align="right"><a href="#readme-top">back to top</a></p>
+  
+  ### Description
+Thank you for your understanding, and for embracing the ethos of creativity, authenticity, and shared respect that underpins our digital community. Your appreciation means a lot!🌟
 
-Thank you for your understanding and for embracing the ethos of creativity, authenticity, and shared respect that underpins our digital community. Your appreciation means a lot! 🌟
+If you like what you see, I'd be truly grateful if you consider giving it a star 🌟
 
-If you like what you see, consider giving this project a star 🌟
+<h3>TL;DR</h3>
+Feel free to fork this repo for your own purposes, provided you give me credit.
 
-**TL;DR:** Feel free to fork this repo for your own purposes, provided you give credit.
+  <p align="right"><a href="#readme-top">back to top</a></p>
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps:
+To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repository
-
+1. Clone the repo
    ```sh
    git clone https://github.com/kzmfhm/3D-login-page.git
-
    ```
-
 2. Copy path of index.html and open browser to view Project!
 
 ## Questions

@@ -8,13 +8,20 @@
   
   html {
     font-size: 72.5%;
+
+  }
+  body{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgba(31, 7, 7, 0.7), rgba(0, 0, 0, 0.7)),
+    url('./images/bg-3D.webp') center no-repeat;
   }
   
   .container {
     width: 100%;
     height: 100vh;
     background: linear-gradient(rgba(31, 7, 7, 0.7), rgba(0, 0, 0, 0.7)),
-      url(images/bg.png) center no-repeat;
+      url('./images/bg-3D.webp') center no-repeat;
     background-size: cover;
     perspective: 100rem;
   }
@@ -36,7 +43,7 @@
   .forms-wrapper form {
     width: 50rem;
     height: 35rem;
-    background-color: rgba(40, 114, 108, 0.925);
+    background-color: rgba(31, 7, 7, 0.282);
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -122,3 +129,25 @@
   
   .inputs-wrapper input[type="submit"]:hover {
     background-color: rgba(255, 255, 255, 0.8);
+  }
+  @media (max-width: 768px) {
+   
+  
+  .forms-wrapper {
+ 
+   width: 17%;
+   height: 100%;
+ 
+  }
+  
+  
+  .forms-wrapper form {
+    width: 30rem;
+    height: 35rem;
+   margin-left: 75px;
+  
+   
+  }
+    
+  
+  }

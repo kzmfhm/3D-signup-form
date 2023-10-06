@@ -13,8 +13,6 @@
    <!-- TABLE OF CONTENTS -->
       <details>
     <summary>Table of Contents</summary>
-    <ol>
-      <li>
       <ul>
           <li> <a href="#about-the-project">About The Project</a></li>
           <li><a href="#photos">Photos</a></li>
@@ -23,8 +21,6 @@
           <li><a href="#getting-started">Getting Started</a></li>
            <li><a href="#installation">Installation</a></li>
         </ul>
-      </li>
-    </ol>
   </details>
   <!-- ABOUT THE PROJECT -->
 

@@ -19,7 +19,8 @@
           <li><a href="#built-with">Built With</a></li>
           <li><a href="#description">Description</a></li>
           <li><a href="#getting-started">Getting Started</a></li>
-           <li><a href="#installation">Installation</a></li>
+          <li><a href="#installation">Installation</a></li>
+          <li><a href="#support">Support</a></li>
         </ul>
   </details>
   <!-- ABOUT THE PROJECT -->
@@ -64,5 +65,11 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/kzmfhm/3D-login-page.git
    ```
 2. Copy path of index.html and open browser to view Project.Then vew 3D-Animation!
+
+<p align="right"><a href="#readme-top">back to top</a></p>
+
+### ⭐️Support
+
+Give a ⭐️ if this project helped you!
 
 <p align="right"><a href="#readme-top">back to top</a></p>

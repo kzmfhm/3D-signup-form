@@ -71,6 +71,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### ⭐️Support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️⭐️⭐️ if this project helped you!
 
 <p align="right"><a href="#readme-top">back to top</a></p>
